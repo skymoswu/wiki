@@ -1,0 +1,27 @@
+created: 20251110002656534
+creator: 天宇
+journal: npj Parkinson's Disease
+modified: 20251110021046241
+modifier: 天宇
+researcher: Mostafa Sarvizadeh
+tags: Research Theoretical
+title: Machine learning for Parkinson’s disease:a comprehensive review of datasets, algorithms,and challenges
+type: 
+year: 2025
+
+!! Primary thesis and supportive components
+
+This review arranged the primary thesis by different types of datasets.
+
+!!! Acoustic data / features
+
+* Applicability: audio symptoms can be detected early, before noticeable motor symptoms appear.
+* Cost-effectiveness: low-cost
+* Models: Deep convolutional neural networks along with an IP-based whale optimization algorithm
+
+!!! Imaging data
+
+* Applicability: could directly visualize the alternations in the brain
+* Models: lightGBM, XGBOOST, RF (archived a satisfactory level of performance and accuracy)
+
+!! Insights for on-going and future projects

@@ -1,0 +1,15 @@
+created: 20251108091430358
+creator: 天宇
+modified: 20251109080846082
+modifier: 天宇
+title: Journal
+type: 
+
+
+!! 日记
+
+<<list-links "[tag[Journal]tag[Daily]!limit[15]]">>
+
+!! 周报
+
+<<list-links "[tag[Journal]tag[Weekly]!limit[15]]">>
