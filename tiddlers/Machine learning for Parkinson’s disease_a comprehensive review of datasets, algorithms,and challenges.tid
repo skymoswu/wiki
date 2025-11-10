@@ -1,7 +1,11 @@
 created: 20251110002656534
 creator: 天宇
 journal: npj Parkinson's Disease
+<<<<<<< HEAD
 modified: 20251110021046241
+=======
+modified: 20251110025301431
+>>>>>>> 7a91816 (使用太记桌面版同步)
 modifier: 天宇
 researcher: Mostafa Sarvizadeh
 tags: Research Theoretical
@@ -23,5 +27,28 @@ This review arranged the primary thesis by different types of datasets.
 
 * Applicability: could directly visualize the alternations in the brain
 * Models: lightGBM, XGBOOST, RF (archived a satisfactory level of performance and accuracy)
+<<<<<<< HEAD
 
 !! Insights for on-going and future projects
+=======
+* Strength: a good understanding of brain visualization and its relation to PD
+
+!!! Biomarkers
+
+* Applicability: the combination of genetic and abnormal brain activity can contribute to the development of the disease
+* Models: KNN classifiers, gated recurrent units with resting-state EEG
+	** Using longitudinal data, Dadu et al. developed ML-based models to detect distinct subgroups of PD.
+
+!!! Multimodal
+
+* Applicability: integration of various data input sources to gain a holistic perspective.
+
+!! Insights for on-going and future projects
+
+Common practice of ML-application in PD
+
+* Assessment tools: Python, Matlab, R
+* Metrics: TPR, precision, TNR, F1-score, AUC, MCC
+* Models: Deep Learning, regression, ensemble, reduction, clustering and ANN
+* Validation: train-test split (29%), independent test sets (19%).
+>>>>>>> 7a91816 (使用太记桌面版同步)
