@@ -1,0 +1,12 @@
+created: 20251108091220290
+creator: 天宇
+modified: 20251111014238876
+modifier: Tianyu
+title: $:/config/NewJournal/Text
+
+!! Events
+
+!! Inspirations
+
+!! Brain Dump
+<<interstitial-ui caption:"Interstitial journals" width:"" base:"$(currentTiddler)$">>

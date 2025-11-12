@@ -1,0 +1,25 @@
+created: 20251110131837299
+creator: Tianyu
+modified: 20251111015254750
+modifier: Tianyu
+tags: Computer
+title: AeroSpace使用记录
+
+Exempted from: [[https://sspai.com/post/84935]]
+
+!! Workspace
+
+* 1-5: workspace for projects
+* 6: maintenance (Ticktick)
+* 7: entertainment
+* 8: office communications
+* 9: IMs
+
+!! Hotkeys
+
+|!功能|!快捷键|
+|将当前窗口移动到另一个显示器|Shift-Option-Tab|
+|重置等分平铺|Service mode+r|
+|悬浮|Service mode+f|
+|关闭其他窗口|Service mode+backspace|
+|归组|Service mode+h/j/k/l|

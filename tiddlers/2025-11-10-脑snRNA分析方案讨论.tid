@@ -1,0 +1,16 @@
+created: 20251110015343877
+creator: 天宇
+modified: 20251110085859068
+modifier: Tianyu
+presenter: 孙海翔
+tags: Meeting
+title: 2025-11-10-脑snRNA分析方案讨论
+
+! 事项计划
+
+* OPC两个亚群合并
+* 新标记物提琴图的绘制/横向点图
+* 合并后的分群marker列表
+	** 统计数据上：avg_log2FC尽可能大（影响点的深浅），pct.1尽可能大（影响点的大小）
+	** 细胞身份上：符合传统细胞身份认知的marker
+	** 细胞功能上：符合探究性的细胞生物学功能

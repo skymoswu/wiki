@@ -1,0 +1,64 @@
+created: 20251112010613703
+creator: Tianyu
+journal: Cell
+modified: 20251112025550138
+modifier: Tianyu
+researcher: Henning Fenselau
+tags: Research Theoretical Obesity Neuroscience
+title: Brain control of energy homeostasis-Implications for anti-obesity pharmacotherapy
+type: 
+year: 2025
+
+!! Primary thesis and supportive components
+
+!!! Obesity as a complex and chronic condition
+
+* Obesity is currently accepted as an adiposity-based chronic and relapsing disease.
+* Obesity has a strong biological basis, and it seems highly unlikely that obesity epidemic can be explained by a widespread drop in willpower.
+
+!!!! Environmental factors
+	** Physical inactivity could be a consequence rather than cause of obesity
+		*** Fact: free-living energy expenditure increased in the recent years.
+	** Introduction of Western diet, both basal metabolic rate and core body temperature have decreased slightly.
+
+!!!! Genetic factors
+
+* Fact: the heritability of BMI is around 70%,.
+* Since having too large fat depots could increase the risk of predation, the biology of energy homeostasis evolved to maintain fat mass within a fairly narrow range.
+* Genetic drift hypothesis
+	** Human have been at the top of the food chain for aroudn 2 million years, which minimizes the risk of predation and there has been no selection pressure to limit adiposity.
+	** Adiposity genes were eroded by random mutations.
+* Pathway-based analyses highlight that genes linked to BMI-associated loci are enriched in pathways for neurogenesis, synaptic function, and neurotransmitter signalling.
+
+!!! Models of obesity pathogenesis
+
+Core concept: calorie ingestion exceeds energy output.
+
+However, the concept could be explained from two directions:
+
+* Push concept: high energy intake pushes excess calories into the fat depots.
+* Pull concept: fat depots actively pull excessive calories from the circulation into adipocytes.
+
+!!! Neuroendocrine regulation of energy homeostasis
+
+* Adipose-brain
+* Gut-brain
+* Pancreas-brain
+* Liver-brain
+
+!!! CNS control of energy homeostasis
+
+* Hypothalamic control
+	** ARC neurons are strongly regulated by hormones, including leptin, ghrelin, and insulin
+	** POMC neurons
+* Motivational and hedonic circuits in energy balance
+	** Rewarding aspects of food could reinforce behavior
+	** Food craving
+		*** Wanting: motivational elements
+		*** Liking: hedonic elements
+	** Incentive salience associated with food and dictates its hedonic value
+	** Reward neurocircuits tunes the incentive salience associated with food and dictates its hedonic value
+
+!! Insights for on-going and future projects
+
+We could examine the association between activities of salience and reward networks and adiposity in [[肥胖神经特征研究]].

@@ -1,0 +1,25 @@
+created: 20251110002339984
+creator: 天宇
+modified: 20251111014329779
+modifier: Tianyu
+tags: Journal Daily
+title: 2025-11-10
+type: text/vnd.tiddlywiki
+
+!! Events
+
+* 文献阅读：[[Machine learning for Parkinson’s disease:a comprehensive review of datasets, algorithms,and challenges]]
+* 讨论[[2025-11-10-脑snRNA分析方案讨论]]
+	** 根据上述分析方案绘制新图
+* 学习PD研究项目方案
+	** 项目书已解密
+	** 启动该部分项目书研究思路的学习
+* [[LIGHT-MCI研究数据分析]]中ΔFC的计算
+
+!! Inspirations
+
+* 重新启用[[AeroSpace|AeroSpace使用记录]]
+
+!! Brain Dump
+
+<<interstitial-ui caption:"Interstitial journals" width:"" base:"$(currentTiddler)$">>

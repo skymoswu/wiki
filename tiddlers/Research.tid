@@ -1,0 +1,14 @@
+created: 20251108084302771
+creator: 天宇
+modified: 20251112011924864
+modifier: Tianyu
+title: Research
+type: 
+
+!! Empirical Researchs
+
+<<table-dynamic filter:"[tag[Research]tag[Empirical]]" fields: "title tags journal year researcher">> 
+
+!! Theoretical Researchs
+
+<<table-dynamic filter:"[tag[Research]tag[Theoretical]]" fields: "title tags journal year researcher">> 
