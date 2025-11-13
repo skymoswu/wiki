@@ -1,0 +1,19 @@
+created: 20251113053712694
+creator: 天宇
+modified: 20251113053726489
+modifier: 天宇
+tags: Document Obesity
+title: TFEQ-R21量表分数解读
+type: 
+
+!! Uncontrolled eating
+
+df[, UE := p3 + p6 + p8 + p9 + p12 + p13 + p15 + p19 + p20]
+
+!! Cognitive restraint
+
+df[, CR := p5 + p11 + p17 + p18 + p21]
+
+!! Emotional eating
+
+df[, EE := p2 + p4 + p7 + p10 + p14 + p16]
