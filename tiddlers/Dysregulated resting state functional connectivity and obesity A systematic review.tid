@@ -1,0 +1,67 @@
+created: 20251113072052616
+creator: Tianyu
+journal: Neuroscience and Biobehavioral Reviews
+modified: 20251113080442735
+modifier: Tianyu
+researcher: Geoffrey Hall
+tags: Neuroscience Research Obesity Theoretical
+title: Dysregulated resting state functional connectivity and obesity A systematic review
+type: 
+year: 2021
+
+
+
+!! Primary thesis and supportive components
+
+* Obesity defination: anthropometric measurements such as body mass index (BMI) in conjunction with WC and WHR
+
+!!! Current perspectives about the influence of obesity on brain
+
+* Increased brain age
+* Increased WMH and decreased WM integrity
+* Reduced gray matter in the left, middle and right inferior frontal gyrus
+* Task-related alternations: aberrant patterns of FC compared to lean BMI controls during reward processing paradigms
+
+!!! Current Rs-FC study settings
+
+* Methodologies: ICA, SBA, ALFF, fALFF, ReHo
+* Population
+	** One study compared Rs-FC across obese, overweight and lean BMI categories
+	** One study investigated differences in Rs-FC between indivs wiht abdominal vs non-abdominal obesity (Park, 2018)
+	** Exclusion criteria: psychiatric disorders
+
+!!! Current Rs-FC study results
+
+!!!! ICA
+
+* Individuals with excess BMI showed decreased FC within the DMN
+	** High BMI was associated with reduced functional cohesion of the DMN in a sample of siblings.
+* Studies investigating FPN and SN had conflicting results
+
+!!!! SBA
+
+* Seeds: hypothalamus, precuneus, amygdala, ventral and dorsal striatum, dorsal mid-insula, pituitary gland
+* Connections between hypothalamus and insula, PFC, accumbens were elevated in obesity
+* Pituitary: higher BMI is negatively associated with pituitary-PFC, pituitary-Hipp connectivity
+* Striatum: Striatum is positively connected to dorsal PFC.
+
+!!! ALFF and ReHo
+
+* ALFF activation: fusiform/amygdala, ITG, hippocampus, caudate.
+
+!!! Graph theories
+
+* Decreased global efficiency, increased shortest path length
+* Betweeness: executive netowkrs, left frontoparietal network, and auditory network
+
+!! Insights for on-going and future projects
+
+# Obesity arouse from an imbalance in brain systems
+# Underlying mechanisms include:
+	## Dopaminergic dysfunction
+	## Metabolic and inflammatory factors
+	## Shared neurobiology with addiction
+# Rs-FC application
+	## Biomarker
+	## Therapeutic targets
+	## Behavioral therapies

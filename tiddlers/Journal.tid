@@ -1,7 +1,6 @@
-color: LightSkyBlue
 created: 20251108091430358
 creator: 天宇
-modified: 20251111080441872
+modified: 20251113080940898
 modifier: Tianyu
 title: Journal
 type: 
@@ -9,8 +8,8 @@ type:
 
 !! 日记
 
-<<list-links "[tag[Journal]tag[Daily]!limit[15]]">>
+<<list-links "[tag[Journal]tag[Daily]!sort[title]!limit[15]]">>
 
 !! 周报
 
-<<list-links "[tag[Journal]tag[Weekly]!limit[15]]">>
+<<list-links "[tag[Journal]tag[Weekly]!sort[title]!limit[15]]">>
