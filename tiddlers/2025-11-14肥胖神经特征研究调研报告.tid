@@ -1,0 +1,23 @@
+created: 20251114015932044
+creator: Tianyu
+modified: 20251114021931406
+modifier: Tianyu
+tags: BriefReport
+title: 2025-11-14肥胖神经特征研究调研报告
+type: 
+
+Related project: [[肥胖神经特征研究]]
+
+!! Concepts
+
+
+
+!! Methodology
+
+
+
+!! Facts
+
+* Garcia 2016: with SBC, the researchers identified reduced global connectivity in excess weight adolescents.
+* Park 2020: This study found that obesity is associated with distinct whole-brain functional connectivity patterns, where reward-processing brain regions show positive connectivity correlations with obesity measures while sensory-processing regions show negative correlations.
+	** The combination score is calculated using a linear combination of the selected regional degree centrality values and the elastic net coefficients.
