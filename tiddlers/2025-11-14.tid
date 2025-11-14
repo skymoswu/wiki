@@ -1,6 +1,6 @@
 created: 20251114003049308
 creator: Tianyu
-modified: 20251114101609375
+modified: 20251114102540659
 modifier: Tianyu
 tags: Journal Daily
 title: 2025-11-14
@@ -21,6 +21,8 @@ title: 2025-11-14
 * DECODE数据SBC分析
 
 !! Inspirations
+
+* [[gocron|https://github.com/gocronx-team/gocron]]可以用来部分替换原生的crontab
 
 !! Brain Dump
 <<interstitial-ui caption:"Interstitial journals" width:"" base:"$(currentTiddler)$">>
