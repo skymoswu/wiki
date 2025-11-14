@@ -1,6 +1,6 @@
 created: 20251114015932044
 creator: Tianyu
-modified: 20251114031837984
+modified: 20251114063119400
 modifier: Tianyu
 tags: BriefReport
 title: 2025-11-14肥胖神经特征研究调研报告
@@ -11,16 +11,18 @@ Related project: [[肥胖神经特征研究]]
 !! Concepts
 
 
-
 !! Methodology
 
-
+* [[Heuvel 2024|Polyconnectomic Scoring of Functional Connectivity Patterns Across Eight Neuropsychiatric and Three Neurodegenerative Disorders]]: PCS could be applied for neurodegenerative disease prediction.
 
 !! Facts
 
 * Small 2016: with SBC, the researchers identified significant alternations in hippocampus
 * Garcia 2016: with SBC, the researchers identified reduced global connectivity in excess weight adolescents.
+* Sanmiguel 2017: ALFF analysis revealed sex differences in reward seed-based connectivity.
 * Park 2018: This study found that people with abdominal obesity have distinct structural and functional brain connectivity patterns compared to those with non-abdominal obesity, and that combining these multimodal brain imaging features best explains the variance in eating disorder behaviors.
+* Lamb 2019: A large-scale cross-sectional study about white matter microstructure and obesity
 * Park 2020: This study found that obesity is associated with distinct whole-brain functional connectivity patterns, where reward-processing brain regions show positive connectivity correlations with obesity measures while sensory-processing regions show negative correlations.
 	** The combination score is calculated using a linear combination of the selected regional degree centrality values and the elastic net coefficients.
 * Gupta 2021: increased food addiction is associated with alternations in reward network FC.
+* Horstmann 2024: While there were no overall differences in working memory gating between obese and lean individuals, participants with obesity performed worse on the task depending on their Taq1A genotype, which affects dopamine receptor density in the striatum.

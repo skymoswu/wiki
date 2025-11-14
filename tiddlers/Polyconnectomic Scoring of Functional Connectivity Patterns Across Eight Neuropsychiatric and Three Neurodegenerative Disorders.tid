@@ -1,0 +1,36 @@
+created: 20251114055949252
+creator: Tianyu
+journal: Biological Psychiatry
+modified: 20251114063035980
+modifier: Tianyu
+researcher: Martijn P.
+tags: Research Neuroimaging Empirical
+title: Polyconnectomic Scoring of Functional Connectivity Patterns Across Eight Neuropsychiatric and Three Neurodegenerative Disorders
+type: 
+year: 2024
+
+!! Research questions
+
+Basic concept: similar to a shift in genetics from focusing on single genes to analyzing the entire genome.
+
+!! Hypothesis
+
+PCS could capture whole-brain alternations in the FC networks of neurodegenerative diseases.
+
+!! Methods
+
+* Definition
+	** PCS: a metric to quantify whole-brain FC signatures in individuals, $$PCS=\frac{1}{n}\Sigma^{n}_{i}(\beta * C)$$
+	** CSS: connection-based statistics with FDR < 0.05 as threshold (drawbacks: the FDR correction corrected only tests between diseases, raising possibilities of Type II errors)
+
+!! Key findings
+
+* PCS could identify generalizable whole-brain connectivity patterns indicated altered levels of PCS in out-of-sample patients
+* Sensitivity analysis
+	** Connection-based correction would significantly alter the connection profile.
+	** Global mean FC showed no significant effects on predicting disease progression.
+* PCS is significantly associated with behavioural scores.
+
+!! Insights for on-going and future projects
+
+We also proposed a PCS algorithm with similar notions, however, since the project progress is stuck, the PCS still need further validation.
