@@ -1,6 +1,6 @@
 created: 20251108092810792
 creator: 天宇
-modified: 20251115150230649
+modified: 20251116113547596
 modifier: Tianyu
 title: Areas
 type: 
@@ -25,3 +25,5 @@ type:
 
 * [[Self]]
 * [[Computer]]
+	** [[Linux]]
+	** [[Haskell]]
