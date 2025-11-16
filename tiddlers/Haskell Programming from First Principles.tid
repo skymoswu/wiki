@@ -1,7 +1,40 @@
 created: 20251116113451882
 creator: Tianyu
-modified: 20251116113522448
+modified: 20251116122940420
 modifier: Tianyu
 tags: Book
 title: Haskell Programming from First Principles
 type: 
+
+
+# <$checkbox /> [[All you need is lambda]]
+# <$checkbox /> Basic Haskell
+# <$checkbox /> Strings
+# <$checkbox /> Basic datatypes
+# <$checkbox /> Types
+# <$checkbox /> Typeclasses
+# <$checkbox /> More functional patterns
+# <$checkbox /> Recursion
+# <$checkbox /> Lists
+# <$checkbox /> Folding lists
+# <$checkbox /> Algebraic datatypes
+# <$checkbox /> Signal adversity
+# <$checkbox /> Building projects
+# <$checkbox /> Testing
+# <$checkbox /> Monoid
+# <$checkbox /> Functor
+# <$checkbox /> Applicative
+# <$checkbox /> Monad
+# <$checkbox /> Applying structure
+# <$checkbox /> Foldable
+# <$checkbox /> Traversable
+# <$checkbox /> Reader
+# <$checkbox /> State
+# <$checkbox /> Parsec
+# <$checkbox /> Composing types
+# <$checkbox /> Monad transformers
+# <$checkbox /> Nonstrictness
+# <$checkbox /> Basic libraries
+# <$checkbox /> IO
+# <$checkbox /> When things go wrong
+# <$checkbox /> Final project

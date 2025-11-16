@@ -1,0 +1,47 @@
+created: 20251116120956706
+creator: Tianyu
+modified: 20251116125953473
+modifier: Tianyu
+tags: Haskell
+title: All you need is lambda
+type: 
+
+From book: [[Haskell Programming from First Principles]]
+
+! Basics
+
+* Function: similar with that in mathematics, relation between a set of possible inputs and a set of possible outputs.
+	** That is, given the same input, the output should be predictable.
+* Lambda calculus
+	** Expressions: a superset of all things
+	** Abstraction: a function, which consists of a head and body: $$\lambda x.x$$
+	** Variable
+		*** Parameter: variable in the abstraction head is the //parameter//, and binds all instances of the same variable in the body of the function.
+		*** Free variable: unbound variables
+
+! Properties of lambda calculus
+
+* Alpha equivalence: parameter could be substitued to any parameters, eg. $$\lambda x.x$$ is equivalent to $$\lambda d.d$$
+* Beta reduction: the process of evaluating a function application by substituting the argument for all free occurrences of the parameter in the function's body. ($$[x := z]$$ means x would be substituted by z.)
+	** Applications in the lambda calculus are left associative.
+	** Thus, application means substituing arguments in for bound variables until there are no more heads left to evaluate.
+* Multiple argument is a convenient shorthand for two nested lambdas.
+	** $$\lambda xy.xy$$ equals to $$\lambda x.(\lambda y.xy)$$
+* Evaluation
+	** Beta normal form: when we cannot beta reduce the terms any further
+* Combinator: a lambda term with no free variables
+* Divergence: the reduction process never ends
+
+! Exercises
+
+!! Equivalence
+
+# choose b
+# choose c
+# choose b
+
+!! Chapter
+
+# 1 3 were combinators with no free variables
+# 1 3 were normalform, evaluation of 2 never ends (diverged)
+
