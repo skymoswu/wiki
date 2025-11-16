@@ -1,10 +1,9 @@
-created: 20251115090552125
-creator: Tianyu
-modified: 20251115153227245
-modifier: Tianyu
+created: 20251115153510141
+creator: 天宇
+modified: 20251115153520941
+modifier: 天宇
 tags: Journal Daily
 title: 2025-11-15
-wysiwyg: yes
 
 !! Events
 
@@ -15,3 +14,4 @@ wysiwyg: yes
 !! Inspirations
 
 !! Brain Dump
+<<interstitial-ui caption:"Interstitial journals" width:"" base:"$(currentTiddler)$">>
