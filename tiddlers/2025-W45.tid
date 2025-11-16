@@ -1,0 +1,44 @@
+created: 20251116051108311
+creator: Tianyu
+modified: 20251116052937872
+modifier: Tianyu
+tags: Weekly Journal
+title: 2025-W45
+type: 
+
+! 任务记录
+
+本周的工作进展汇总如下：
+
+* [[肥胖神经特征研究]]
+	** 完成神经耦合分数特征的分析
+	** 完成整理现有研究框架
+	** 推动进行了遗传背景的分析及可视化
+	** 启动了该研究的大背景梳理过程
+* [[LIGHT-MCI研究数据分析]]
+	** 更新了该项目的影像终点数据
+	** 完成嗅觉任务态的分析
+	** 开发了ΔFC的计算程式
+	** 基于提供的数据模板准备了影像结果的图表
+* 海马单细胞数据分析
+	** 完成了神经元亚群及星形胶质细胞亚群的鉴定及注释
+	** 完成了OPC亚群的合并及可视化
+* [[肥胖脑生物型]]
+	** 初步完善了终点分析（剩余TFEQ信息的分析及基线数据的补充）
+	** 完善整理了汇报幻灯的内容
+	** 初步行检索肥胖脑网络连接的研究
+* 文献阅读与学习
+	** 阅读[[Polyconnectomic Scoring of Functional Connectivity Patterns Across Eight Neuropsychiatric and Three Neurodegenerative Disorders]]
+	** 学习[[Machine learning for Parkinson’s disease:a comprehensive review of datasets, algorithms,and challenges]]综述
+* 日常系统维护：维护TiddlyWiki系统
+
+! 下周展望
+
+* 继续推进[[肥胖脑生物型]]终点分析
+* 完善多中心终点分析的结果，准备论文图表材料
+* 推进[[肥胖神经特征研究]]的特征分析
+* 启动与设计肥胖人群嗅觉功能特征的分析
+
+! 杂项
+
+本周工作状态低迷，考虑为过度疲劳所致，本机正在以强制启动的状态推进工作。请做好休息程序安排。
